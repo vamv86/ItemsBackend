@@ -1,0 +1,3 @@
+﻿Name;Description;Vendor;Category;Taxes;Fees;Price;Barcode;Item is Active;Catalog;Online;Stock;Unit Type;Unit;Current Stock;Max Stock;Reorder point;Vendor UOM;Units per Vendor UOM;Vendor Unit Cost;Vendor Item ID;Vendor Description
+Coca Cola;zero;Coca Cola;Bebidas;No;No;1.5;123456;Yes;Yes;Yes;Yes;Unit;1;10;20;5;Unit;24;10;584FDGHK;Agua Dasani
+Coca Cola;Diet;Coca Cola;Bebidas;Default;Default;1.5;123456;Yes;Yes;Yes;Yes;OZ;1;10;20;5;Packet;24;10;584FDGHK;Jugo
